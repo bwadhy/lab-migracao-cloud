@@ -1,4 +1,4 @@
-# 📌 Simulação de Migração para Cloud
+# 📌 Simulação de Migração para Cloud DIA 03/04
 
 ## 🧠 Objetivo
 Simular um ambiente on-premise e preparar sua migração para cloud, utilizando tecnologias modernas.
@@ -45,3 +45,15 @@ VM (On-Premise)
 
 - Container MySQL rodando  
 - Dados inseridos no banco  
+########################################################################################################################################################################################################################### 📌 Simulação de Migração para Cloud DIA 04/04
+
+## 🗓️ Histórico de Incrementos
+
+### 04/04
+- Criado e rodando **app Node.js** conectado ao MySQL
+- API testada com `curl` e navegador
+- App acessível externamente via EC2 (porta 3000)
+- Garantido que Docker + MySQL estão funcionando em cloud
+
+
+
